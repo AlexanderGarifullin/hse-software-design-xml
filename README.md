@@ -1,2 +1,2 @@
 # xmllimq
-My lab work on XML, Linq, functional programming
+My lab work on XML, LINQ, functional programming
