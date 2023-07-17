@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<root>
+  <grandparent1>
+    <parent1 node-count="1">
+      <child1 />
+    </parent1>
+    <parent2 node-count="4">
+      <child2 />
+      <child3>
+        <grandson1 />
+        <grandson2 />
+      </child3>
+    </parent2>
+  </grandparent1>
+  <grandparent2>
+    <parent3 />
+  </grandparent2>
+  <grandparent3>
+    <parent4 node-count="1">
+      <child4 />
+    </parent4>
+  </grandparent3>
+</root>

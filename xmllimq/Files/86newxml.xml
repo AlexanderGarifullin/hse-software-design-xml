@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pupils>
+  <Иванов_П.В. class="11">
+    <mark4 subject="География" />
+    <mark3 subject="История" />
+  </Иванов_П.В.>
+  <Степанова_Г.Б. class="9">
+    <mark5 subject="Математика" />
+    <mark5 subject="Химия" />
+    <mark4 subject="Физика" />
+  </Степанова_Г.Б.>
+</pupils>

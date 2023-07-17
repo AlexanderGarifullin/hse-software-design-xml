@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<records>
+	<record>
+		<house>12</house>
+		<flat>129</flat>
+		<name>Сергеев Т.М.</name>
+		<debt>1833.32</debt>
+	</record>
+	<record>
+		<house>15</house>
+		<flat>315</flat>
+		<name>Иванов А.В.</name>
+		<debt>1050.50</debt>
+	</record>
+</records>

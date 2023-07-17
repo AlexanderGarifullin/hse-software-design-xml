@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<clients>
+	<client id="10">
+		<info date="2022-01-01T00:00:00" time="PT5H30M" />
+		<info date="2022-02-01T00:00:00" time="PT1H10M" />
+	</client>
+	<client id="11">
+		<info date="2022-01-01T00:00:00" time="PT3H15M" />
+		<info date="2022-12-01T00:00:00" time="PT2H45M" />
+	</client>
+	<client id="12">
+		<info date="2022-01-01T00:00:00" time="PT4H" />
+		<info date="2022-02-01T00:00:00" time="PT3H30M" />
+		<info date="2022-12-01T00:00:00" time="PT1H45M" />
+	</client>
+	<client id="13">
+		<info date="2022-12-01T00:00:00" time="PT2H10M" />
+	</client>
+	<client id="14">
+		<info date="2022-02-01T00:00:00" time="PT5H10M" />
+	</client>
+	<client id="15">
+		<info date="2022-02-01T00:00:00" time="PT3H10M" />
+	</client>
+</clients>

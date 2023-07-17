@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<clients>
+	<record date="2000-05-01T00:00:00" id="10" time="PT5H13M" />
+	<record date="2001-03-15T00:00:00" id="10" time="PT3H45M" />
+	<record date="2001-06-15T00:00:00" id="10" time="PT3H45M" />
+	<record date="1999-12-28T00:00:00" id="20" time="PT4H30M" />
+</clients>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<root>
+	<pupil name="Степанова Г.Б." class="9">
+		<info mark="4" subject="Физика" />
+		<info mark="5" subject="Математика" />
+		<info mark="5" subject="Химия" />
+	</pupil>
+	<pupil name="Иванов П.В." class="11">
+		<info mark="3" subject="История" />
+		<info mark="4" subject="География" />
+	</pupil>
+</root>

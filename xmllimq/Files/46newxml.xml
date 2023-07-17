@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<root odd-node-count="true">
+  <grandparent1 odd-node-count="true">
+    <parent1 odd-node-count="true">
+      <child1 />
+    </parent1>
+    <parent2 odd-node-count="false">
+      <child2 />
+      <child3 odd-node-count="false">
+        <grandson1 />
+        <grandson2 />
+      </child3>
+    </parent2>
+  </grandparent1>
+  <grandparent2 odd-node-count="true">
+    <parent3 />
+  </grandparent2>
+  <grandparent3 odd-node-count="false">
+    <parent4 odd-node-count="true">
+      <child4 />
+    </parent4>
+  </grandparent3>
+</root>

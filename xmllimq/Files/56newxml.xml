@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<root xmlns:prefix="http://example.com">
+  <prefix:element1>
+    <subelement1 />
+  </prefix:element1>
+  <prefix:element2>
+    <subelement1>
+      <subsubelement1 />
+    </subelement1>
+    <subelement2 />
+  </prefix:element2>
+</root>

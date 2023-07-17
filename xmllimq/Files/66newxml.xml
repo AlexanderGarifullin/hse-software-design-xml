@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<root>
+  <d2022-1 total-time="765" client-count="3">
+    <id10 time="330" />
+    <id11 time="195" />
+    <id12 time="240" />
+  </d2022-1>
+  <d2022-2 total-time="780" client-count="4">
+    <id10 time="70" />
+    <id12 time="210" />
+    <id14 time="310" />
+    <id15 time="190" />
+  </d2022-2>
+  <d2022-12 total-time="400" client-count="3">
+    <id11 time="165" />
+    <id12 time="105" />
+    <id13 time="130" />
+  </d2022-12>
+</root>
